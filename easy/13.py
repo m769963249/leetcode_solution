@@ -21,5 +21,5 @@ if __name__ == "__main__":
     rom_number = "III"
     # rom_number = "MCMXCIV"
     result = solution.romanToInt(s=rom_number)
-    print type(result)
-    print str(result)
+    print(type(result))
+    print(str(result))

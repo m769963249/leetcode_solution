@@ -31,5 +31,5 @@ if __name__ == "__main__":
     num = 121
     # result = solution.isPalindrome(x=num)
     result = solution.isPalindrome2(x=num)
-    print type(result)
-    print str(result)
+    print(type(result))
+    print(str(result))
